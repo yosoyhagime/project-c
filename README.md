@@ -1,8 +1,4 @@
 # project-c
-.n/
-.
-.
-.
-.
-.
+# beta testing soon
+
 beta testing soon
